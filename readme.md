@@ -2,9 +2,9 @@
 Tela de cadastro onde é possivel cadastrar, visualizar, editar e deletar usuários.
 
 ## Tecnologias utilizadas
-**Front-end:** HTML, CSS, JavaScript, Bootstrap.
-**Back-end:** PHP
-**Banco de dados:** MySQL
+- **Front-end:** HTML, CSS, JavaScript, Bootstrap.
+- **Back-end:** PHP
+- **Banco de dados:** MySQL
 
 ## Instalação e Uso
 No terminal do seu editor de código digite "php -S localhost:8000" e tecle enter para gerar o link de onde está rodando a aplicação.
